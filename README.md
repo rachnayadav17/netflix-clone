@@ -2,6 +2,10 @@
 
 1. Create React App
 2. Configure Tailwind css
+3. Header
+4. Login Page
+5. Sign Up page
+6. Form Validation
 
 Features:
    -if user is not login then create a signin or signup page
