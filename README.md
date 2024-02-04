@@ -6,6 +6,8 @@
 4. Login Page
 5. Sign Up page
 6. Form Validation
+7. Routing of App
+8. useRef Hook
 
 Features:
    -if user is not login then create a signin or signup page
